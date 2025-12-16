@@ -1,0 +1,5 @@
+#Ignor all log-files
+*.log
+
+#Ignor all DLL-files
+*.dll
